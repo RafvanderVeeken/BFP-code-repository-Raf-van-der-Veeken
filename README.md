@@ -16,6 +16,6 @@ and seem to be operating correctly.
 Further extension of this module should firstly aim towards implementing the scattering source term,
 after which extension into higher-dimensional domains may be considered.
 
-Lastly, this code has been made with substantial direct and indirect help from Timo Bogaarts.
+Lastly, this code has been made with substantial direct and indirect help from Timo Bogaarts; so thank you, Timo.
 
 - R.K.K. van der Veeken
