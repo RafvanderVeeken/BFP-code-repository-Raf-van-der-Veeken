@@ -1,4 +1,4 @@
-Welcome to the git repo for Raf's setup_1D_neutrals_mgop module! (An extension for the jax-sn package by T. Bogaarts)
+Welcome to the git repo for Raf's setup_1D_neutrals_mgop module! (An extension for the jax-sn package by Timo Bogaarts)
 
 The purpose of this extension is to solve the Boltzmann equation for arbitrary neutrals instead of just neutrons.
 This is done by rewriting the neutrals equation into the same form as the one used by jax-sn.
